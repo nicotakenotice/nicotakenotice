@@ -9,8 +9,8 @@
 
 ⬇️ Below you'll find me messing around with some of these languages/frameworks.
 
-| Languages | Frameworks |
-| --------- | ---------- |
+| 🔷 Languages | 💠 Frameworks |
+| --- | --- |
 | `.html` `.css` `.js` `.ts` | `Angular` `Svelte` |
 | `.cpp` `.cs` | `Qt` `.NET` |
 | `.sql` | |
