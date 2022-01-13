@@ -2,7 +2,7 @@
 
 ---
 
-👨‍💻 A software developer with a bachelor's degree in CS attained at 🎓 [University of Padua](https://www.unipd.it/en/), currently living and working in 🗺️ Vicenza, Italy.
+👨‍💻 A software developer with a BSc in CS attained at 🎓 [University of Padua](https://www.unipd.it/en/), currently living and working in 🗺️ Vicenza, Italy.
 
 🧙 I'm mostly a front-end type of guy with a keen eye for sleek interfaces, but I also enjoy back-end development. I'm just terribly eager to get visual results of what I'm doing.
 
