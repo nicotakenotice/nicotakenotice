@@ -1,8 +1,4 @@
-<!-- <img src="./assets/banner.png" alt="Hi, I'm Nico" width="100%"> -->
-
 ## 👋 Hi, I'm Nico
-
----
 
 👨‍💻 A software developer with a BSc in CS attained at 🎓 [University of Padua](https://www.unipd.it/en/), currently living and working in 🗺️ Vicenza, Italy.
 
