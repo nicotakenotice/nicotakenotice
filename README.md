@@ -1,4 +1,6 @@
-<img src="./assets/banner.png" alt="Hi, I'm Nico" width="100%">
+<!-- <img src="./assets/banner.png" alt="Hi, I'm Nico" width="100%"> -->
+
+👋 Hi, I'm Nico
 
 ---
 
