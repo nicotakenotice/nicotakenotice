@@ -11,5 +11,3 @@
 | `.html` `.css` `.js` `.ts` | `Angular` `Svelte` |
 | `.cpp` `.cs` | `Qt` `.NET` |
 | `.sql` | |
-
----
