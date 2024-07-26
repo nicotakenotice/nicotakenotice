@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Nico
 
-👨‍💻 A software developer with a BSc in CS attained at 🎓 [University of Padua](https://www.unipd.it/en/), currently living and working in 🗺️ Vicenza, Italy.  
+👨‍💻 A software developer with a BSc in CS attained at [University of Padua](https://www.unipd.it/en/), currently living and working in Italy.  
 🧙 I'm mostly a front-end type of guy with a keen eye for sleek interfaces.
 
 ⬇️ Below you'll find me messing around with some of these languages/frameworks.
