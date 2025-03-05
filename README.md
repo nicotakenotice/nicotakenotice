@@ -9,6 +9,6 @@
 
 | 🔷 Languages | 💠 Frameworks |
 | --- | --- |
-| `.html` `.css` `.js` `.ts` | `Angular` `Svelte` `Electron` |
+| `.html` `.css` `.js` `.ts` | `Angular` `Svelte` `Electron` `Capacitor` |
 | `.cpp` `.cs` | `Qt` `.NET` |
 | `.sql` | |
