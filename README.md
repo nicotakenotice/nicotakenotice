@@ -2,13 +2,12 @@
 
 ## 👋 Hi, I'm Nico
 
-👨‍💻 A software developer with a BSc in CS attained at [University of Padua](https://www.unipd.it/en/), currently living and working in Italy.  
-🧙 I'm mostly a front-end type of guy with a keen eye for sleek interfaces.
+👨‍💻 A frontend engineer with a BSc in CS attained at [University of Padua](https://www.unipd.it/en/), currently living and working in Italy.
 
 ⬇️ Below you'll find me messing around with some of these languages/frameworks.
 
-| 🔷 Languages | 💠 Frameworks |
-| --- | --- |
+| 🔷 Languages               | 💠 Frameworks                             |
+| -------------------------- | ----------------------------------------- |
 | `.html` `.css` `.js` `.ts` | `Angular` `Svelte` `Electron` `Capacitor` |
-| `.cpp` `.cs` | `Qt` `.NET` |
-| `.sql` | |
+| `.cpp` `.cs`               | `Qt` `.NET`                               |
+| `.sql`                     |                                           |
